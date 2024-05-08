@@ -1,0 +1,15 @@
+# Ignore data dir
+data/
+
+# Ignore config dir
+config/
+
+# Ignore test dir
+test/
+
+# vscode
+.vscode
+**/tempCodeRunnerFile.py
+
+# Ignore code runner extension file
+**/tempCodeRunnerFile.py
